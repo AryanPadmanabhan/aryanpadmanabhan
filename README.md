@@ -15,26 +15,16 @@
 
 <br />
 
-Aryan Padmanabhan  
-[aryanpaddy007@gmail.com](mailto:aryanpaddy007@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aryan-padmanabhan) | Portfolio Website
 
 ---
 
 ### EDUCATION
 
 **University of Minnesota, Twin Cities – College of Science and Engineering** 		                  
-**Bachelor’s of Science in Computer Science** 						       Expected May 2026  
+**Bachelor’s of Science in Computer Science** 
 - **Achievements:** Dean’s List | Iron Range Scholar | CSE Scholar   
 - **GPA:** 3.9/4.0  
 - **Relevant Courses:** Data Structures & Algorithms | Discrete Structures | Operating Systems | Machine Architecture | Web Technologies 
-
----
-
-### SKILLS & TECHNOLOGIES
-
-**Languages:** Java | C++ | C | Python | JavaScript | TypeScript | OCaml | SQL | HTML | CSS  
-**Software Engineering:** React | NextJS | Apache Kafka | Flask | NodeJS | Apache Spark  
-**Infrastructure:** Azure | AWS | Google Cloud | Firebase | MySQL | PostgreSQL | Git | Docker | Databricks
 
 ---
 
@@ -61,7 +51,6 @@ Aryan Padmanabhan
 
 **Amazon Drone Delivery Simulation** - *C++, TypeScript*  
 - Architected a modular simulation engine with real-time autonomous drone operations using kinematic principles and spatial data structures.
-- Implemented A* and Dijkstra’s algorithms for dynamic pathfinding, enabling optimized routing for drone delivery systems.
 
 **MiniTar** – *C, Operating Systems (OS), UNIX*  
 - Developed a Unix tar replica, handling file archiving and extraction with POSIX-compliant format handling and efficient multi-terabyte archive processing using low-level I/O system calls.
@@ -93,7 +82,5 @@ Aryan Padmanabhan
     <img src="https://github-readme-stats.vercel.app/api?username=aryanpadmanabhan&hide=prs&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"/><br><br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanpadmanabhan&theme=dark" /><br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanpadmanabhan&layout=compact&theme=radical" />
-
-<img src="https://activity-graph.herokuapp.com/graph?username=aryanpadmanabhan&theme=radical&bg_color=00000000&point=00000000&line=FC6401&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=969696&area=true&area_color=FC6401"/>
 
 </p>
