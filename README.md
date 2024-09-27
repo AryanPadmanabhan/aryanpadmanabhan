@@ -10,7 +10,7 @@
 ### <img src="https://github.com/vishant-mehta/vishant-mehta/blob/main/hello.gif" width="29px"> Hey, I'm Aryan! <br><br>
 
 - 👉 My skills span Backend Development, Web Development, Data Engineering, and Machine Learning.
-- 💡 I am currently a CS student at the University of Minnesota with a strong foundation in Software Engineering and Quantitative Finance.
+- 💡 I am currently a CS student at the University of Minnesota with a strong foundation in Software Engineering.
 - 📊 I've completed 5 internships with Adobe, UnitedHealth Group, and various startups, where I developed large-scale data pipelines, optimized algorithms, and contributed to high-impact software projects.
 
 <br />
@@ -18,7 +18,7 @@
 
 ---
 
-### My education
+### Education
 
 **University of Minnesota, Twin Cities – College of Science and Engineering** 		                  
 **Bachelor’s of Science in Computer Science** 
@@ -28,15 +28,12 @@
 
 ---
 
-### Some of my internships
+### Internships
 
 **Adobe**				                                       				           June 2024 - Sept 2024  
 *Software Engineer Intern* – San Jose, CA  
 - Launched Adobe Commerce’s unified data platform, combining fragmented data sources for services handling over $20B in transactions and 40M+ users.
 
-**Uptrends.ai**											             Nov 2023 - May 2024  
-*Algorithm Engineer Intern* – Minneapolis, MN  
-- Engineered robust algorithms correlating NLP news sentiment with profitability in equity markets, achieving a 20% improvement in performance and a 10% increase in accuracy.
 
 **<UnitedHealth Group**											   June 2023 - Aug 2023  
 *Software Engineer Intern* – Minneapolis, MN  
@@ -45,7 +42,7 @@
 
 ---
 
-### Few projects
+### Projects
 
 **Amazon Drone Delivery Simulation** - *C++, TypeScript*  
 - Architected a modular simulation engine with real-time autonomous drone operations using kinematic principles and spatial data structures.
@@ -56,8 +53,6 @@
 **Project Signol** – *JavaScript, Python*  
 - Engineered a backtesting environment with an algorithm achieving 82% accuracy, utilized by over 1,200 users to generate $5.7M in profits.
 
-**Scriptify** - *TypeScript, Python, React, Flask, Firebase, Google Cloud*  
-- Led the development of a web application converting handwritten code into executable code using a full-stack application framework and AI/ML models for code recognition & conversion.
 
 ---
 
