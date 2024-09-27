@@ -30,17 +30,15 @@
 
 ### WORK EXPERIENCE
 
-### WORK EXPERIENCE
-
-**<img src="https://logos-world.net/wp-content/uploads/2020/06/Adobe-Logo-2020-present.png" width="50px"> Adobe**				                                       				           June 2024 - Sept 2024  
+**Adobe**				                                       				           June 2024 - Sept 2024  
 *Software Engineer Intern* – San Jose, CA  
 - Launched Adobe Commerce’s unified data platform, combining fragmented data sources for services handling over $20B in transactions and 40M+ users.
 
-**<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtSWq83pFzQReDmcP8_i7VZVFwWPnVgCC4Tw&s" width="50px"> Uptrends.ai**											             Nov 2023 - May 2024  
+**Uptrends.ai**											             Nov 2023 - May 2024  
 *Algorithm Engineer Intern* – Minneapolis, MN  
 - Engineered robust algorithms correlating NLP news sentiment with profitability in equity markets, achieving a 20% improvement in performance and a 10% increase in accuracy.
 
-**<img src="https://1000logos.net/wp-content/uploads/2018/02/unitedhealthcare-emblem.png" width="50px"> UnitedHealth Group**											   June 2023 - Aug 2023  
+**<UnitedHealth Group**											   June 2023 - Aug 2023  
 *Software Engineer Intern* – Minneapolis, MN  
 - Designed neural network architectures for advanced computer vision, achieving a 90% success rate in medical document classification.
 
