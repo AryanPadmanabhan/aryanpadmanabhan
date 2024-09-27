@@ -18,7 +18,7 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Adobe_Corporate_Logo.png" width="150px" alt="Adobe Logo" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://images.ctfassets.net/bxvspbo2e7cv/7xutZWrUzti98E1utY7vti/f7983533fde352912cdb46d2125e22ba/UnitedHealth-Group-logo-white.png" width="250px" alt="UnitedHealth Group Logo" />
+  <img src="https://verint.imgix.net/wp-content/uploads/unitedhealth-group-featured-logo.png?fit=max&auto=compress%2Cformat&ixlib=imgixjs-3.6.1" width="250px" alt="UnitedHealth Group Logo" />
 </p>
 
 ---
