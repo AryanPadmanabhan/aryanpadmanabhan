@@ -15,16 +15,22 @@
 
 <br />
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Adobe_Corporate_Logo.png" width="150px" alt="Adobe Logo" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://images.ctfassets.net/bxvspbo2e7cv/7xutZWrUzti98E1utY7vti/f7983533fde352912cdb46d2125e22ba/UnitedHealth-Group-logo-white.png" width="250px" alt="UnitedHealth Group Logo" />
+</p>
+
 ---
 
 ### Internships
 
-**Adobe**				                                       				           June 2024 - Sept 2024  
+**Adobe**				                                       				           Summer 2024  
 *Software Engineer Intern* – San Jose, CA  
 - Launched Adobe Commerce’s unified data platform, combining fragmented data sources for services handling over $20B in transactions and 40M+ users.
 
 
-**<UnitedHealth Group**											   June 2023 - Aug 2023  
+**UnitedHealth Group**											   Summer 2023  
 *Software Engineer Intern* – Minneapolis, MN  
 - Designed neural network architectures for advanced computer vision, achieving a 90% success rate in medical document classification.
 
