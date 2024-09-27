@@ -15,17 +15,6 @@
 
 <br />
 
-
----
-
-### Education
-
-**University of Minnesota, Twin Cities – College of Science and Engineering** 		                  
-**Bachelor’s of Science in Computer Science** 
-- **Achievements:** Dean’s List | Iron Range Scholar | CSE Scholar   
-- **GPA:** 3.9/4.0  
-- **Relevant Courses:** Data Structures & Algorithms | Discrete Structures | Operating Systems | Machine Architecture | Web Technologies 
-
 ---
 
 ### Internships
@@ -38,20 +27,6 @@
 **<UnitedHealth Group**											   June 2023 - Aug 2023  
 *Software Engineer Intern* – Minneapolis, MN  
 - Designed neural network architectures for advanced computer vision, achieving a 90% success rate in medical document classification.
-
-
----
-
-### Projects
-
-**Amazon Drone Delivery Simulation** - *C++, TypeScript*  
-- Architected a modular simulation engine with real-time autonomous drone operations using kinematic principles and spatial data structures.
-
-**MiniTar** – *C, Operating Systems (OS), UNIX*  
-- Developed a Unix tar replica, handling file archiving and extraction with POSIX-compliant format handling and efficient multi-terabyte archive processing using low-level I/O system calls.
-
-**Project Signol** – *JavaScript, Python*  
-- Engineered a backtesting environment with an algorithm achieving 82% accuracy, utilized by over 1,200 users to generate $5.7M in profits.
 
 
 ---
