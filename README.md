@@ -1,4 +1,10 @@
-![Header](https://github.com/staticshreyas/staticshreyas/blob/master/_Logo.png "Header")
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fumenzi&countColor=%23263759&style=default" alt="visitor_badge">
+
+<h1 style="text-align: center;">
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=800&size=35&duration=2000&pause=200&multiline=true&width=650&height=140&lines=%24+myname;Aryan+Padmanabhan" alt="Title GitHub Readme" />
+  </a>
+</h1>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/aryan-padmanabhan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp; 
