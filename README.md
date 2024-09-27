@@ -18,7 +18,7 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Adobe_Corporate_Logo.png" width="150px" alt="Adobe Logo" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://financialmodelingprep.com/image-stock/UNH.png" width="250px" alt="UnitedHealth Group Logo" />
+  <img src="https://financialmodelingprep.com/image-stock/UNH.png" width="150px" alt="UnitedHealth Group Logo" />
 </p>
 
 ---
