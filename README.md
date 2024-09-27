@@ -25,12 +25,12 @@
 
 ### Internships
 
-**Adobe**				                                       				           Summer 2024  
+**Adobe**:				                                       				           Summer 2024  
 *Software Engineer Intern* – San Jose, CA  
 - Launched Adobe Commerce’s unified data platform, combining fragmented data sources for services handling over $20B in transactions and 40M+ users.
 
 
-**UnitedHealth Group**											                       Summer 2023  
+**UnitedHealth Group**:											                       Summer 2023  
 *Software Engineer Intern* – Minneapolis, MN  
 - Designed neural network architectures for advanced computer vision, achieving a 90% success rate in medical document classification.
 
