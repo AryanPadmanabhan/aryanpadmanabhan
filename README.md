@@ -16,7 +16,7 @@
 <br />
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Adobe_Corporate_Logo.png" width="150px" alt="Adobe Logo" />
+  <img src="https://logodownload.org/wp-content/uploads/2017/04/adobe-logo-0.png" width="150px" alt="Adobe Logo" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://financialmodelingprep.com/image-stock/UNH.png" width="150px" alt="UnitedHealth Group Logo" />
 </p>
