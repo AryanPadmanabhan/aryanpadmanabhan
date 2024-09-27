@@ -18,7 +18,7 @@
 
 ---
 
-### EDUCATION
+### My education
 
 **University of Minnesota, Twin Cities – College of Science and Engineering** 		                  
 **Bachelor’s of Science in Computer Science** 
@@ -28,7 +28,7 @@
 
 ---
 
-### WORK EXPERIENCE
+### Some of my internships
 
 **Adobe**				                                       				           June 2024 - Sept 2024  
 *Software Engineer Intern* – San Jose, CA  
@@ -45,7 +45,7 @@
 
 ---
 
-### PROJECTS
+### Few projects
 
 **Amazon Drone Delivery Simulation** - *C++, TypeScript*  
 - Architected a modular simulation engine with real-time autonomous drone operations using kinematic principles and spatial data structures.
